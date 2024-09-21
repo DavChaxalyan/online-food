@@ -13,10 +13,10 @@ Currently, two official plugins are available:
 Installation
 
 Clone the repository:
-      git clone <repository-url>
+      git clone repository-url
 
 Navigate to the project directory:
-      cd <project-directory>
+      cd project-directory
 
 Install dependencies:
       npm install
